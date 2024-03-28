@@ -1,0 +1,1 @@
+A Next.js app to find the chattiest person. 
